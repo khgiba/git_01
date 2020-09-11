@@ -26,8 +26,22 @@ In Summer, when the days are long,
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
+
+
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright —  
+
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
